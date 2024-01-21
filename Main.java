@@ -8,7 +8,7 @@ public class Main {
         return 3.279 * meter;
     }
 
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         System.out.printf("%-15s%-15s%-15s%-15s\n", "Feet", "Meters", "|", "Meters      Feet");
         System.out.println("------------------------------------------------------------------");
 
